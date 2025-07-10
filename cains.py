@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 
 # Constants and configurations
 PREFIX = ""
-TOKEN = "MTM4MDY3MDIxNzE4ODkzMzY2Mg.GYSTru.uXhUdpchZ29PLwtYwX3_trvnMgzTuiyesbxJDw"
+TOKEN = "MTM4MDY3MDIxNzE4ODkzMzY2Mg.GMUk_q.xhveeVxnLelAxWfvP1NaXVhHlseRpNiK6mFTQk"
 
 CUSTOM_EMOJI_PATTERN = re.compile(r'<a?:([a-zA-Z0-9_]+):(\d+)>')
 REACTION_URL_TEMPLATE = (
