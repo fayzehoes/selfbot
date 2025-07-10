@@ -1,0 +1,7 @@
+discord.py==1.7.3 
+requests 
+websockets
+curl_cffi 
+typing_extensions
+aiohttp 
+requestcord
